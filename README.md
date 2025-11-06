@@ -1,6 +1,6 @@
-# SmartDoc: Intelligent Document Processing with LLM Integration
+# SmartDoc AI: Intelligent Document Processing with LLM Integration
 
-SmartDoc is an intelligent document processing system that leverages OCR and LLM integration to convert, analyze, and extract valuable information from PDFs. This project provides a user-friendly interface for comprehensive document understanding, and translation, and includes a chatbot for interactive queries.
+SmartDoc AI is an intelligent document processing system that leverages OCR and LLM integration to convert, analyze, and extract valuable information from PDFs. This project provides a user-friendly interface for comprehensive document understanding, and translation, and includes a chatbot for interactive queries.
 
 <div align="center">
 <img width="446" alt="image" src="SmartDoc.png">
