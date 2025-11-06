@@ -22,7 +22,7 @@ SmartDoc AI is an intelligent document processing system that leverages OCR and 
 1. **Clone the repository**:
     ```bash
     git clone https://github.com/DivyanParmar/SmartDoc-AI.git
-    cd SmartDoc-Document-Processing-With-LLM
+    cd SmartDoc-AI
     ```
 
 2. **Set up a virtual environment**:
